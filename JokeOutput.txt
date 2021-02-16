@@ -1,0 +1,101 @@
+olisas-MacBook-Air% java JokeServer     
+In the admin looper thread
+In joke mode
+In proverbmode
+In jokemode
+In proverbmode
+In jokemode
+In proverbmode
+In jokemode
+In proverbmode
+In jokemode
+In proverbmode
+In jokemode
+In proverbmode
+In jokemode
+
+olisas-MacBook-Air% java JokeClientAdmin     
+Default mode: joke
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit... 
+
+Switched to proverb mode
+ enter to switch  mode or quit to exit... 
+
+Switched to joke mode
+ enter to switch  mode or quit to exit...
+
+olisas-MacBook-Air% java JokeClient     
+Please enter your name !
+olisa
+Press enter or type quit!
+
+JB olisa What happens to a frog's car when it breaks down? It gets toad away.
+Press enter or type quit!
+
+PD olisa A word is enough for the wise
+Press enter or type quit!
+
+JC olisa Q: What did the duck say when he bought lipstick?A: Put it on my bill.
+Press enter or type quit!
+
+PC olisa The child cannot see what the older sees sqautibg
+Press enter or type quit!
+
+JD olisa Why are iPhone chargers not called Apple Juice?!
+Press enter or type quit!
+
+PB olisa A chain is only as strong as its weakest link
+Press enter or type quit!
+
+JA olisa Don't use beef stew as a computer password. It's not stroganoff.
+Press enter or type quit!
+
+PA olisa A barking dog never bites
+Press enter or type quit!
+
+Joke cycle Finished
+JB olisa What happens to a frog's car when it breaks down? It gets toad away.
+Press enter or type quit!
+
+Proverb cycle Finished
+PD olisa A word is enough for the wise
+Press enter or type quit!
+
+JC olisa Q: What did the duck say when he bought lipstick?A: Put it on my bill.
+Press enter or type quit!
+
+PC olisa The child cannot see what the older sees sqautibg
+Press enter or type quit!
+
+JD olisa Why are iPhone chargers not called Apple Juice?!
+Press enter or type quit!
